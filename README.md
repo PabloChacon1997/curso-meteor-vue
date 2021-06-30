@@ -70,7 +70,7 @@ mongodump --host <HOST> --port <PORT> --username=<USERNAME> --password=<PASSWORD
 
 - Run the following commands to install the dependencies:
 ```shell
-npm
+npm install or npm i
 ```
 
 **Configure environment variables file**
@@ -85,14 +85,14 @@ Running project
 **On Mac OS X and Linux**
 - Run the following commands:
 ```shell
-yarn run:mac
+npm run:mac
 ```
 
 **On Windows**
 - Run the following commands:
 ```shell
 SET MONGO_URL=mongodb://localhost:27017/curso-meteor
-yarn run:windows
+npm run run:windows
 ```
 
 
