@@ -1,0 +1,10 @@
+{
+    "private": {
+        "MAIL_URL" : "smtp://pabloandres120297:M3gUxt4Pr0Gr4$97@smtp.gmail.com:587",
+        "SENDER_EMAILS": {
+            "SERVICES" : "pabloandres120297@gmail.com"
+        },
+        "REFRESH_PERMISSIONS": false,
+        "REFRESH_STATIC_PROFILES": false
+    }
+}
